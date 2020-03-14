@@ -16,6 +16,7 @@
   <link href="./fonts.googleapis.com/cssd767.css?family=Roboto:300,400,500,700" rel="stylesheet">
 
   <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="./assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="./assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
