@@ -25,6 +25,7 @@
   <link rel="stylesheet" href="./assets/vendor/slick-carousel/slick/slick.css">
   <link rel="stylesheet" href="./assets/vendor/dzsparallaxer/dzsparallaxer.css">
   <link rel="stylesheet" href="./assets/vendor/cubeportfolio/css/cubeportfolio.min.css">
+  
 
   <!-- CSS Space Template -->
   <link rel="stylesheet" href="./assets/css/style.css">
@@ -127,7 +128,7 @@
                   data-event="hover"
                   data-animation-in="fadeInUp"
                   data-animation-out="fadeOut">
-                <a id="homeMegaMenu" class="nav-link u-header__nav-link" href="javascript:;"
+                <a id="homeMegaMenu" class="nav-link u-header__nav-link" href="gallery"
                    aria-haspopup="true"
                    aria-expanded="false"
                    aria-labelledby="homeSubMenu">
